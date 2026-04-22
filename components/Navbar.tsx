@@ -45,7 +45,7 @@ export function Navbar() {
         <Link aria-label="CMarcas - página inicial" className="shrink-0" href="/">
           <Image
             alt="CMarcas - Patentes e Registro MS"
-            className="h-auto w-[174px]"
+            className="h-auto w-[210px]"
             height={77}
             priority
             src="/images/logo-cmarcas.jpg"
