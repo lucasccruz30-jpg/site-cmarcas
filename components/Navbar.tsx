@@ -73,6 +73,7 @@ export function Navbar() {
                         className="block rounded-md px-4 py-3 text-sm font-medium text-brand-graphite transition hover:bg-brand-paper hover:text-brand-orange"
                         href={service.href}
                         key={service.href}
+                        scroll={true}
                       >
                         {service.label}
                       </Link>
