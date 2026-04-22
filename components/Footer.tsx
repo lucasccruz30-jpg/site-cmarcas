@@ -20,11 +20,14 @@ export function Footer() {
             jurídica com acompanhamento especializado.
           </p>
           <div className="mt-5 flex gap-3 text-sm">
-            <a className="rounded-md border border-white/15 px-3 py-2 hover:border-brand-orange hover:text-brand-orangeSoft" href="#">
+            <a className="rounded-md border border-white/15 px-3 py-2 hover:border-brand-orange hover:text-brand-orangeSoft" href="https://www.linkedin.com/company/cmarcas/" rel="noreferrer" target="_blank">
               LinkedIn
             </a>
-            <a className="rounded-md border border-white/15 px-3 py-2 hover:border-brand-orange hover:text-brand-orangeSoft" href="#">
+            <a className="rounded-md border border-white/15 px-3 py-2 hover:border-brand-orange hover:text-brand-orangeSoft" href="https://www.instagram.com/cmarcasepatentes/" rel="noreferrer" target="_blank">
               Instagram
+            </a>
+            <a className="rounded-md border border-white/15 px-3 py-2 hover:border-brand-orange hover:text-brand-orangeSoft" href="https://www.facebook.com/AnvisaeInpi" rel="noreferrer" target="_blank">
+              Facebook
             </a>
           </div>
         </div>

@@ -17,9 +17,7 @@ import { ButtonLink } from "@/components/Button";
 import { LogoTicker } from "@/components/LogoTicker";
 import { MotionReveal } from "@/components/Motion";
 import { SectionHeading } from "@/components/SectionHeading";
-import { blogPosts } from "@/lib/content";
 import { siteConfig } from "@/lib/constants";
-import { formatDate, readingTime } from "@/lib/utils";
 
 const reasons = [
   {
@@ -85,8 +83,6 @@ const steps = [
 ];
 
 export default function Home() {
-  const recentPosts = blogPosts.slice(0, 3);
-
   return (
     <>
       <section className="relative isolate overflow-hidden bg-hero-texture bg-cover bg-center">
@@ -210,40 +206,6 @@ export default function Home() {
             title="Empresas que Confiam em Nós"
           />
           <LogoTicker />
-        </div>
-      </section>
-
-      <section className="section-shell py-16">
-        <SectionHeading eyebrow="Blog recente" title="Conteúdos para decidir com mais segurança" />
-        <div className="grid gap-6 md:grid-cols-3">
-          {recentPosts.map((post) => (
-            <article className="overflow-hidden rounded-lg bg-white shadow-soft transition hover:-translate-y-1 hover:shadow-lift" key={post.slug}>
-              <Link href={`/blog/${post.slug}`}>
-                <Image
-                  alt={post.title}
-                  className="aspect-video w-full object-cover"
-                  height={380}
-                  src={post.image}
-                  width={680}
-                />
-              </Link>
-              <div className="p-5">
-                <span className="rounded-full bg-brand-orange/12 px-3 py-1 text-xs font-bold text-brand-orange">
-                  {post.category}
-                </span>
-                <h3 className="mt-4 text-xl font-bold leading-snug text-brand-ink">
-                  <Link className="hover:text-brand-orange" href={`/blog/${post.slug}`}>
-                    {post.title}
-                  </Link>
-                </h3>
-                <p className="mt-3 line-clamp-2 text-sm text-brand-muted">{post.excerpt}</p>
-                <div className="mt-5 flex items-center justify-between gap-3 text-xs text-brand-muted">
-                  <span>{formatDate(post.date)}</span>
-                  <span>{readingTime(post.content)} min</span>
-                </div>
-              </div>
-            </article>
-          ))}
         </div>
       </section>
 

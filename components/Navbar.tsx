@@ -14,36 +14,29 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-black/5 bg-white/95 shadow-[0_3px_24px_rgba(0,0,0,0.05)] backdrop-blur">
-      <div className="h-2 bg-brand-orange" />
-      <div className="border-b border-black/5 bg-white">
-        <div className="mx-auto flex w-full max-w-[1520px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-3 sm:px-10 md:justify-start">
+      <div className="bg-brand-orange">
+        <div className="mx-auto flex w-full max-w-[1520px] flex-wrap items-center justify-center gap-x-6 gap-y-2 px-6 py-2 sm:px-10 md:justify-start">
           <a
-            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
             href={siteConfig.whatsappUrl}
             rel="noreferrer"
             target="_blank"
           >
-            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
-              <MessageCircle aria-hidden="true" size={17} />
-            </span>
+            <MessageCircle aria-hidden="true" size={14} />
             {siteConfig.whatsapp}
           </a>
           <a
-            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
             href="tel:+551133135367"
           >
-            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
-              <Phone aria-hidden="true" size={17} />
-            </span>
+            <Phone aria-hidden="true" size={14} />
             {siteConfig.phone}
           </a>
           <a
-            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
             href={`mailto:${siteConfig.email}`}
           >
-            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
-              <Mail aria-hidden="true" size={17} />
-            </span>
+            <Mail aria-hidden="true" size={14} />
             {siteConfig.email}
           </a>
         </div>
