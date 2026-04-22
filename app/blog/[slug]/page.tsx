@@ -10,17 +10,18 @@ import { siteConfig } from "@/lib/constants";
 import { formatDate, readingTime } from "@/lib/utils";
 
 type BlogPostPageProps = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 };
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
 
-export function generateMetadata({ params }: BlogPostPageProps): Metadata {
-  const post = blogPosts.find((item) => item.slug === params.slug);
+export async function generateMetadata({ params }: BlogPostPageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const post = blogPosts.find((item) => item.slug === slug);
 
   if (!post) {
     return {};
@@ -37,8 +38,9 @@ export function generateMetadata({ params }: BlogPostPageProps): Metadata {
   };
 }
 
-export default function BlogPostPage({ params }: BlogPostPageProps) {
-  const post = blogPosts.find((item) => item.slug === params.slug);
+export default async function BlogPostPage({ params }: BlogPostPageProps) {
+  const { slug } = await params;
+  const post = blogPosts.find((item) => item.slug === slug);
 
   if (!post) {
     notFound();
