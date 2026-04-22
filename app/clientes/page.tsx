@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { ArrowRight, Building2 } from "lucide-react";
+import Image from "next/image";
+import { ArrowRight } from "lucide-react";
 import { ButtonLink } from "@/components/Button";
 import { PageHero } from "@/components/Hero";
 import { SectionHeading } from "@/components/SectionHeading";
-import { clients } from "@/lib/content";
+import { clientLogos } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Clientes",
@@ -26,14 +27,22 @@ export default function ClientesPage() {
           title="Relacionamentos construídos com confiança"
           description="A CMarcas atende empresas de varejo, indústria, serviços, cosméticos, tecnologia, saúde e outros mercados."
         />
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-6">
-          {clients.map((client) => (
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-6">
+          {clientLogos.map((client) => (
             <div
-              className="group grid min-h-28 place-items-center rounded-lg border border-black/8 bg-white p-4 text-center shadow-soft transition hover:-translate-y-1 hover:border-brand-orange hover:shadow-lift"
-              key={client}
+              className="group relative grid min-h-28 place-items-center rounded-lg border border-black/8 bg-white p-4 shadow-soft transition hover:-translate-y-1 hover:border-brand-orange hover:shadow-lift"
+              key={client.src}
+              title={client.name}
             >
-              <Building2 className="mb-2 text-brand-orange transition group-hover:scale-110" size={30} />
-              <span className="text-sm font-bold text-brand-graphite">{client}</span>
+              <div className="relative h-16 w-full">
+                <Image
+                  alt={client.name}
+                  className="object-contain transition group-hover:scale-105"
+                  fill
+                  sizes="(min-width: 1024px) 180px, (min-width: 768px) 25vw, 50vw"
+                  src={client.src}
+                />
+              </div>
             </div>
           ))}
         </div>
