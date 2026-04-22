@@ -17,7 +17,7 @@ export function Navbar() {
       <div className="bg-brand-orange">
         <div className="mx-auto flex w-full max-w-[1520px] flex-wrap items-center justify-center gap-x-6 gap-y-2 px-6 py-2 sm:px-10 md:justify-start">
           <a
-            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
+            className="inline-flex items-center gap-2 text-xs font-semibold leading-none text-white/90 transition hover:text-white"
             href={siteConfig.whatsappUrl}
             rel="noreferrer"
             target="_blank"
@@ -26,14 +26,14 @@ export function Navbar() {
             {siteConfig.whatsapp}
           </a>
           <a
-            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
+            className="inline-flex items-center gap-2 text-xs font-semibold leading-none text-white/90 transition hover:text-white"
             href="tel:+551133135367"
           >
             <Phone aria-hidden="true" size={14} />
             {siteConfig.phone}
           </a>
           <a
-            className="inline-flex items-center gap-2 text-xs font-semibold text-white/90 transition hover:text-white"
+            className="inline-flex items-center gap-2 text-xs font-semibold leading-none text-white/90 transition hover:text-white"
             href={`mailto:${siteConfig.email}`}
           >
             <Mail aria-hidden="true" size={14} />
