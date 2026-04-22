@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { Award, Heart, Linkedin, ShieldCheck, Target, Eye, CheckCircle2 } from "lucide-react";
+import { Award, Heart, ShieldCheck, Target, Eye, CheckCircle2 } from "lucide-react";
 import { ButtonLink } from "@/components/Button";
 import { PageHero } from "@/components/Hero";
 import { MotionReveal } from "@/components/Motion";
 import { SectionHeading } from "@/components/SectionHeading";
-import { corporateImages, team } from "@/lib/content";
+import { corporateImages } from "@/lib/content";
 import { siteConfig } from "@/lib/constants";
 
 export const metadata: Metadata = {
@@ -109,33 +109,6 @@ export default function QuemSomosPage() {
               );
             })}
           </div>
-        </div>
-      </section>
-
-      <section className="section-shell py-16">
-        <SectionHeading eyebrow="Equipe especializada" title="Profissionais preparados para orientar decisões importantes" />
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-          {team.map((member, index) => (
-            <MotionReveal delay={index * 0.05} key={member.name}>
-              <article className="overflow-hidden rounded-lg bg-white shadow-soft transition hover:-translate-y-1 hover:shadow-lift">
-                <Image
-                  alt={member.name}
-                  className="aspect-square w-full object-cover"
-                  height={420}
-                  src={member.image}
-                  width={420}
-                />
-                <div className="p-5">
-                  <h3 className="text-lg font-bold text-brand-ink">{member.name}</h3>
-                  <p className="text-sm font-semibold text-brand-orange">{member.role}</p>
-                  <p className="mt-3 text-sm text-brand-muted">{member.bio}</p>
-                  <a className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-brand-graphite hover:text-brand-orange" href="#">
-                    <Linkedin size={16} /> LinkedIn
-                  </a>
-                </div>
-              </article>
-            </MotionReveal>
-          ))}
         </div>
       </section>
 
