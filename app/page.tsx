@@ -127,6 +127,24 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="border-b border-black/6 bg-white">
+        <div className="section-shell grid grid-cols-2 divide-x divide-black/6 lg:grid-cols-4">
+          {[
+            { value: "10+", label: "Anos de experiência" },
+            { value: "500+", label: "Clientes atendidos" },
+            { value: "3.000+", label: "Pedidos protocolados" },
+            { value: "Nacional", label: "e Internacional" },
+          ].map((stat) => (
+            <div className="flex flex-col items-center py-8 text-center" key={stat.label}>
+              <span className="font-display text-3xl font-bold text-brand-orange md:text-4xl">
+                {stat.value}
+              </span>
+              <span className="mt-1 text-sm font-medium text-brand-muted">{stat.label}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+
       <section className="section-shell py-16">
         <SectionHeading
           eyebrow="Por que escolher a CMarcas?"
