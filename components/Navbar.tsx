@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ChevronDown, Mail, Menu, Phone, X } from "lucide-react";
+import { ChevronDown, Mail, Menu, MessageCircle, Phone, X } from "lucide-react";
 import { useState } from "react";
 import { navLinks, serviceLinks, siteConfig } from "@/lib/constants";
 import { cn } from "@/lib/utils";
@@ -14,14 +14,36 @@ export function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-black/5 bg-white/95 shadow-[0_3px_24px_rgba(0,0,0,0.05)] backdrop-blur">
-      <div className="border-b border-black/5 bg-brand-ink text-white">
-        <div className="section-shell flex min-h-9 flex-wrap items-center justify-center gap-x-6 gap-y-1 py-1 text-xs md:justify-end">
-          <a className="inline-flex items-center gap-2 hover:text-brand-orangeSoft" href={`tel:${siteConfig.phone}`}>
-            <Phone aria-hidden="true" size={14} />
+      <div className="h-2 bg-brand-orange" />
+      <div className="border-b border-black/5 bg-white">
+        <div className="mx-auto flex w-full max-w-[1520px] flex-wrap items-center justify-center gap-x-8 gap-y-3 px-6 py-3 sm:px-10 md:justify-start">
+          <a
+            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            href={siteConfig.whatsappUrl}
+            rel="noreferrer"
+            target="_blank"
+          >
+            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
+              <MessageCircle aria-hidden="true" size={17} />
+            </span>
+            {siteConfig.whatsapp}
+          </a>
+          <a
+            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            href="tel:+551133135367"
+          >
+            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
+              <Phone aria-hidden="true" size={17} />
+            </span>
             {siteConfig.phone}
           </a>
-          <a className="inline-flex items-center gap-2 hover:text-brand-orangeSoft" href={`mailto:${siteConfig.email}`}>
-            <Mail aria-hidden="true" size={14} />
+          <a
+            className="inline-flex items-center gap-3 text-sm font-bold text-brand-ink transition hover:text-brand-orange md:text-base"
+            href={`mailto:${siteConfig.email}`}
+          >
+            <span className="grid h-9 w-9 place-items-center rounded-full bg-brand-orange text-brand-ink">
+              <Mail aria-hidden="true" size={17} />
+            </span>
             {siteConfig.email}
           </a>
         </div>
