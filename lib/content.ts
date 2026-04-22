@@ -112,7 +112,7 @@ export const blogPosts = [
     category: "Geral",
     author: "Equipe CMarcas",
     date: "2026-04-14",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
     excerpt: "Propriedade intelectual é o conjunto de direitos sobre criações da mente. Entenda o que ela abrange e por que proteger esses ativos é decisivo para o crescimento sustentável do seu negócio.",
     content: `## O conceito que move empresas inovadoras
 
@@ -382,7 +382,7 @@ Essa combinação cobre tanto o uso não autorizado por concorrentes (marca) qua
     category: "Marcas",
     author: "Equipe CMarcas",
     date: "2026-02-10",
-    image: "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce?auto=format&fit=crop&w=1200&q=80",
     excerpt: "O Protocolo de Madri permite registrar uma marca em vários países com um único pedido internacional. Entenda como funciona, quais países participam e quando vale a pena usar esse sistema.",
     content: `## O desafio da proteção internacional de marcas
 
@@ -436,7 +436,7 @@ Para proteção em um ou dois países específicos com características regulat�
     category: "Marcas",
     author: "Equipe CMarcas",
     date: "2026-01-15",
-    image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=1200&q=80",
     excerpt: "Uma marca registrada pode ser cancelada por falta de uso. Entenda o que é a caducidade, quais são os prazos, como comprovar uso e como usar esse mecanismo para liberar marcas bloqueadas.",
     content: `## O que é a caducidade de marca
 
@@ -718,7 +718,7 @@ A assessoria especializada em propriedade intelectual acompanha cada fase do pro
     author: "Equipe CMarcas",
     date: "2026-01-29",
     image:
-      "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?auto=format&fit=crop&w=1200&q=80",
     excerpt:
       "Saiba quando uma invenção, modelo de utilidade ou desenho industrial merece uma estratégia de proteção e como o timing certo faz toda a diferença.",
     content: `## Inovar sem proteger é um risco calculado
@@ -1032,7 +1032,7 @@ O processo de oposição é uma disputa técnica e jurídica onde cada detalhe i
     author: "Equipe CMarcas",
     date: "2025-08-08",
     image:
-      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
     excerpt:
       "Contratos de licença, cessão e transferência de tecnologia têm implicações fiscais, cambiais e de propriedade intelectual que precisam estar bem alinhadas.",
     content: `## Por que contratos de tecnologia exigem atenção especializada
@@ -1092,7 +1092,7 @@ Revisar esses contratos preventivamente — antes de assinar, não depois de sur
     author: "Equipe CMarcas",
     date: "2025-07-30",
     image:
-      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
     excerpt:
       "O registro é o começo, não o fim da proteção. Saiba como o monitoramento contínuo preserva a exclusividade da sua marca e permite agir antes que o dano aconteça.",
     content: `## O registro não protege sozinho
@@ -1154,7 +1154,7 @@ O registro atualizado e o histórico de uso documentado são os fundamentos de q
     author: "Equipe CMarcas",
     date: "2025-06-19",
     image:
-      "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=80",
     excerpt:
       "Empresas que fabricam, importam ou comercializam produtos regulados precisam de licença sanitária antes de operar. Entenda o que é exigido e como estruturar o processo.",
     content: `## Licença sanitária: obrigação antes de operar
