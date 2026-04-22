@@ -74,33 +74,6 @@ export const clientLogos = [
 
 export const clients = clientLogos.map((client) => client.name);
 
-export const testimonials = [
-  {
-    name: "Marina Couto",
-    role: "Diretora de Marketing",
-    quote:
-      "A CMarcas trouxe clareza para um processo que parecia complexo. Recebemos orientação precisa desde a busca até o acompanhamento do pedido.",
-    image:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=240&q=80"
-  },
-  {
-    name: "Ricardo Tavares",
-    role: "Fundador de indústria cosmética",
-    quote:
-      "O suporte técnico em marca e ANVISA foi decisivo para lançarmos novos produtos com segurança jurídica e previsibilidade.",
-    image:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=240&q=80"
-  },
-  {
-    name: "Patrícia Lima",
-    role: "Sócia administrativa",
-    quote:
-      "O atendimento é próximo, transparente e muito organizado. Sentimos que nossa marca estava sendo cuidada com rigor.",
-    image:
-      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=240&q=80"
-  }
-];
-
 export const team = [
   {
     name: "Carla Martins",
