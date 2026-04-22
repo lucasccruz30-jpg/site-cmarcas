@@ -95,10 +95,10 @@ export default function Home() {
             <p className="mb-4 inline-flex rounded-full border border-brand-orange/25 bg-white/80 px-4 py-2 text-sm font-bold text-brand-orange shadow-soft">
               Propriedade intelectual com estratégia e precisão
             </p>
-            <h1 className="text-balance font-display text-4xl font-bold leading-[1.05] text-brand-ink md:text-6xl">
-              A SEGURANÇA DE SUA MARCA ESTÁ EM UM REGISTRO BEM FECHADO.
+            <h1 className="text-balance font-display text-3xl font-bold leading-tight text-brand-ink md:text-4xl lg:text-5xl">
+              A segurança da sua marca começa com um registro bem feito.
             </h1>
-            <p className="mt-6 max-w-2xl text-lg text-brand-graphite">
+            <p className="mt-5 max-w-2xl text-base text-brand-graphite md:text-lg">
               Marcas e Patentes - Nacional e Internacional | Registro de Produtos junto a ANVISA |
               Legalização de Empresas na Vigilância Sanitária | Assessoria Jurídica Especializada
             </p>
