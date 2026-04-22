@@ -107,6 +107,559 @@ export const team = [
 
 export const blogPosts = [
   {
+    slug: "o-que-e-propriedade-intelectual",
+    title: "O que é propriedade intelectual e por que sua empresa precisa proteger",
+    category: "Geral",
+    author: "Equipe CMarcas",
+    date: "2026-04-14",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "Propriedade intelectual é o conjunto de direitos sobre criações da mente. Entenda o que ela abrange e por que proteger esses ativos é decisivo para o crescimento sustentável do seu negócio.",
+    content: `## O conceito que move empresas inovadoras
+
+Propriedade intelectual é o conjunto de direitos legais que protegem criações intelectuais — nomes, marcas, invenções, obras artísticas, softwares, segredos industriais e muito mais. Esses direitos permitem que seus titulares controlem o uso das criações, excluam terceiros de usá-las sem autorização e as explorem comercialmente com exclusividade.
+
+No Brasil, o sistema de propriedade intelectual é regulado principalmente pela Lei de Propriedade Industrial (Lei 9.279/1996), pela Lei de Direitos Autorais (Lei 9.610/1998), pela Lei de Software (Lei 9.609/1998) e pela legislação sanitária para produtos regulados. O órgão responsável pelos registros de marcas e patentes é o INPI — Instituto Nacional da Propriedade Industrial.
+
+## As principais categorias de proteção
+
+A propriedade intelectual se divide em dois grandes grupos:
+
+**Propriedade industrial**, que abrange marcas, patentes de invenção, modelos de utilidade, desenhos industriais, indicações geográficas e segredos de negócio. Esses direitos são formalizados mediante registro no INPI e têm prazo de proteção definido em lei.
+
+**Direitos autorais**, que protegem obras literárias, artísticas, científicas e programas de computador. Nascem automaticamente com a criação, mas podem ser registrados em órgãos competentes para criar prova oficial de autoria e data.
+
+Para empresas que atuam com produtos regulados, há ainda a camada da propriedade regulatória — registros, cadastros e notificações perante a ANVISA, que conferem autorização para comercialização e fazem parte do valor do negócio.
+
+## Por que proteger é uma decisão de negócio, não apenas jurídica
+
+Muitos empreendedores tratam a proteção intelectual como uma formalidade burocrática. Na prática, é uma decisão estratégica com impacto direto no valor da empresa, na capacidade de crescimento e na segurança das operações.
+
+Uma marca registrada pode ser licenciada, vendida, usada como garantia em financiamentos e incluída no balanço patrimonial como ativo intangível. Uma patente cria barreira de entrada para concorrentes e pode gerar receita por licenciamento. Um portfólio de propriedade intelectual bem estruturado aumenta o valuation da empresa em processos de captação, fusão ou aquisição.
+
+Por outro lado, operar sem proteção adequada expõe a empresa a riscos concretos: ser notificada por usar uma marca que pertence a terceiros, ter produtos copiados sem poder agir legalmente, perder contratos por irregularidade regulatória ou ter disputas sobre titularidade de criações com ex-funcionários e prestadores de serviço.
+
+## Os erros mais comuns que as empresas cometem
+
+O erro mais frequente é confundir registro de empresa com proteção de marca. Registrar um CNPJ na Junta Comercial com determinado nome não garante exclusividade de uso da marca — apenas o registro no INPI faz isso.
+
+Outro erro comum é aguardar o negócio crescer antes de registrar. A lógica inversa é mais correta: registrar no início, enquanto o portfólio ainda está limpo e os custos são menores, evita surpresas quando a empresa já tem mercado a perder.
+
+Também é frequente o descuido com criações geradas por terceiros — freelancers, agências e desenvolvedores contratados. Sem contrato de cessão de direitos, a titularidade das criações pode ser disputada.
+
+## Por onde começar
+
+O ponto de partida é um diagnóstico do que a empresa já tem e do que precisa proteger. Isso inclui identificar marcas em uso, invenções ou inovações desenvolvidas, obras e conteúdos proprietários, softwares internos e produtos sujeitos à regulação sanitária.
+
+Com esse mapeamento em mãos, é possível definir prioridades: quais ativos têm mais valor para o negócio, quais geram mais risco se não forem protegidos e qual é a sequência lógica de registros. A assessoria especializada em propriedade intelectual conduz esse diagnóstico e cria um plano de proteção alinhado com a estratégia e o orçamento da empresa.`
+  },
+  {
+    slug: "quanto-custa-registrar-marca-inpi",
+    title: "Quanto custa registrar uma marca no INPI em 2026",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-04-07",
+    image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "O custo do registro de marca vai além das taxas do INPI. Entenda todas as etapas, os valores atualizados e o que realmente impacta no investimento total.",
+    content: `## Os dois componentes do custo: taxas do INPI e assessoria
+
+O investimento para registrar uma marca no INPI tem dois componentes principais: as retribuições (taxas) pagas diretamente ao órgão e os honorários de assessoria especializada, quando o processo é conduzido por um profissional.
+
+Muitas empresas tentam economizar fazendo o processo por conta própria — e frequentemente perdem as taxas pagas por erros no pedido, escolha incorreta de classe ou ausência de acompanhamento. Entender o que cada custo representa ajuda a tomar uma decisão mais informada.
+
+## Taxas do INPI: o que você paga ao órgão
+
+O INPI cobra retribuições em diferentes momentos do processo. Em 2026, os valores principais para pessoa jurídica são:
+
+**Pedido de registro (por classe):** a taxa de depósito é cobrada no momento do protocolo do pedido. O valor varia conforme o tipo de requerente: pessoas jurídicas pagam o valor integral, enquanto microempresas, empresas de pequeno porte, MEIs, pessoas físicas, profissionais liberais, pesquisadores e entidades sem fins lucrativos têm direito a redução de 60% nas retribuições.
+
+**Concessão do registro:** após o deferimento do pedido, há uma retribuição de concessão que precisa ser paga para que o registro seja efetivado. Sem esse pagamento, o pedido é arquivado.
+
+**Renovação:** ao final dos 10 anos de validade, a renovação do registro gera uma nova retribuição.
+
+Os valores são atualizados periodicamente pelo INPI. Para consultar os valores exatos em vigor, o site oficial do INPI disponibiliza a tabela de retribuições atualizada. Recomenda-se sempre verificar os valores vigentes antes de iniciar o processo.
+
+## Quem tem direito ao desconto de 60%
+
+A redução de 60% nas retribuições do INPI é um benefício significativo que se aplica a:
+
+- Microempresas e Empresas de Pequeno Porte (EPP), conforme Lei Complementar 123/2006
+- Microempreendedores Individuais (MEI)
+- Pessoas físicas
+- Profissionais liberais (autônomos com registro profissional)
+- Inventores independentes
+- Entidades sem fins lucrativos
+- Instituições de ensino e pesquisa
+
+Para fazer jus ao benefício, é necessário comprovar o enquadramento no momento do pedido. A assessoria especializada orienta sobre a documentação necessária.
+
+## O custo por classe: por que registrar nas classes certas importa
+
+Cada pedido de registro cobre uma ou mais classes da Classificação de Nice (NCL). Quanto mais classes, mais retribuições são pagas. Mas registrar em classes insuficientes pode deixar lacunas na proteção.
+
+A estratégia é encontrar o equilíbrio: proteger as classes onde a empresa efetivamente atua e onde há risco real de conflito, sem pagar por classes desnecessárias. Uma assessoria experiente faz essa análise antes do depósito, evitando tanto o subdimensionamento quanto o superdimensionamento do pedido.
+
+Empresas que atuam em múltiplos segmentos — por exemplo, venda de produtos e prestação de serviços — geralmente precisam de pedidos em pelo menos duas classes diferentes.
+
+## O custo real de não fazer ou de fazer errado
+
+O custo de não registrar a marca pode ser muito maior do que o investimento no processo. Uma empresa que constrói reputação durante anos e depois descobre que não pode usar o próprio nome — porque outra empresa registrou antes — enfrenta custos de rebranding, perda de clientes e processos legais que facilmente superam dezenas de vezes o valor que teria sido gasto no registro preventivo.
+
+Da mesma forma, um pedido depositado sem análise prévia de anterioridade pode resultar em indeferimento — e as taxas pagas não são reembolsadas. Recomeçar o processo com um sinal diferente implica novo investimento e tempo perdido.
+
+## Qual é o investimento total com assessoria
+
+O custo total varia conforme o número de classes, o tipo de requerente, a complexidade do caso e os honorários do profissional contratado. O mais importante é tratar o registro de marca não como um custo, mas como um investimento com retorno mensurável: proteção do ativo mais visível da empresa, segurança para crescer e valor real no patrimônio do negócio.`
+  },
+  {
+    slug: "como-fazer-busca-anterioridade-inpi",
+    title: "Como fazer a busca de anterioridade no INPI",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-03-24",
+    image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "A busca de anterioridade é o primeiro passo antes de registrar uma marca. Saiba como usar o sistema do INPI, o que analisar nos resultados e por que a busca profissional vai além do básico.",
+    content: `## O que é e por que é indispensável
+
+A busca de anterioridade é a pesquisa realizada na base de dados do INPI para verificar se já existem marcas registradas ou pedidos em análise que possam conflitar com o sinal que se pretende proteger. É o primeiro passo de qualquer processo de registro responsável — e um dos mais importantes.
+
+Depositar um pedido sem fazer a busca é como assinar um contrato sem ler. A taxa paga ao INPI não é reembolsável em caso de indeferimento. Se o pedido for negado por conflito com marca anterior, todo o investimento de tempo e dinheiro se perde, e a empresa ainda precisa recomeçar com um sinal diferente.
+
+## Como acessar a base de dados do INPI
+
+O INPI disponibiliza gratuitamente o sistema de busca de marcas no endereço oficial do órgão. O sistema, chamado de Busca de Marcas, permite pesquisar por nome, classe e situação do pedido.
+
+Para realizar uma busca básica, o caminho é:
+
+**Por nome:** digitar o nome ou parte dele no campo de pesquisa. O sistema retorna marcas com denominação idêntica ou semelhante.
+
+**Por classe NCL:** filtrar os resultados pela classe de produtos ou serviços em que se pretende registrar a marca. Isso reduz o escopo da análise ao universo relevante.
+
+**Por situação:** verificar se os pedidos encontrados estão ativos (em análise ou registrados) ou arquivados (indeferidos, caducados, extintos). Pedidos arquivados geralmente não representam impedimento.
+
+## O que analisar nos resultados
+
+A análise dos resultados vai muito além de verificar se existe um nome idêntico. O INPI — e os profissionais que atuam nessa área — avalia o conflito sob três aspectos:
+
+**Semelhança visual:** como as marcas se parecem quando vistas lado a lado. Marcas com grafia diferente mas apresentação visual similar podem ser consideradas confundíveis.
+
+**Semelhança fonética:** como as marcas soam quando pronunciadas. "BRAVEL" e "GRAVEL", por exemplo, são visualmente distintas mas foneticamente próximas — e podem conflitar.
+
+**Semelhança ideológica:** marcas que evocam o mesmo conceito, imagem ou ideia. "SOL NASCENTE" e "AURORA" podem conflitar ideologicamente em determinados segmentos, mesmo sendo completamente diferentes em grafia e som.
+
+Além disso, é preciso avaliar se as marcas encontradas atuam na mesma classe ou em classes relacionadas. Marcas idênticas em classes completamente distintas geralmente coexistem sem problema. Marcas semelhantes na mesma classe representam risco real de conflito.
+
+## As limitações da busca pessoal
+
+O sistema público do INPI é uma ferramenta útil, mas a busca pessoal tem limitações importantes que podem levar a conclusões equivocadas:
+
+A base do INPI cobre apenas marcas depositadas no Brasil. Para empresas com pretensão de atuação internacional, é necessário pesquisar também em bases internacionais.
+
+A análise de semelhança fonética e ideológica exige experiência. Um leigo tende a considerar apenas nomes idênticos — mas o INPI pode indeferir pedidos por semelhança que não é óbvia para quem não está familiarizado com os critérios de exame.
+
+A busca básica pode não capturar variações ortográficas relevantes, transliterações, abreviações e combinações que um examinador consideraria conflitantes.
+
+## O que a busca profissional adiciona
+
+Uma busca profissional realizada por especialista em propriedade intelectual vai além do sistema público. Inclui análise de variações do sinal, pesquisa em classes relacionadas, avaliação de risco com base nos critérios reais de exame do INPI e emissão de parecer técnico com recomendação fundamentada.
+
+O parecer orienta o cliente sobre três cenários possíveis: viabilidade do pedido com baixo risco de conflito, necessidade de ajuste no sinal antes do depósito, ou alto risco de conflito que recomenda busca por alternativa. Essa análise prévia evita investimentos em pedidos com baixa chance de sucesso e permite tomar decisões informadas antes de comprometer recursos.`
+  },
+  {
+    slug: "nome-empresarial-vs-marca-registrada",
+    title: "Nome empresarial e marca registrada: entenda a diferença",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-03-10",
+    image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "Registrar o CNPJ não protege sua marca. Entenda por que nome empresarial e marca registrada são instrumentos distintos e o que acontece quando se confunde os dois.",
+    content: `## Uma confusão que gera problemas reais
+
+Um dos equívocos mais frequentes entre empreendedores brasileiros é acreditar que registrar a empresa na Junta Comercial — obtendo o CNPJ com determinado nome — protege automaticamente a marca do negócio. Essa confusão gera problemas sérios: empresas que operam por anos com um nome, investem em construção de marca, e depois recebem uma notificação determinando que parem de usar o próprio nome porque outra empresa o registrou no INPI.
+
+Nome empresarial e marca registrada são instrumentos distintos, regulados por legislações diferentes, com finalidades e âmbitos de proteção completamente diferentes.
+
+## O que é o nome empresarial
+
+O nome empresarial é o nome pelo qual a empresa é identificada perante o Estado, nos seus atos jurídicos e nos documentos oficiais. Para sociedades empresárias, é a firma ou denominação social registrada na Junta Comercial do estado. Para empresários individuais e MEIs, é o nome civil com ou sem referência à atividade.
+
+O registro na Junta Comercial cria personalidade jurídica para a empresa e impede que outra empresa com a mesma atividade registre o mesmo nome empresarial no mesmo estado. Mas sua proteção é geograficamente limitada ao estado de registro e não impede que terceiros usem nome semelhante como marca em todo o território nacional.
+
+## O que é a marca registrada
+
+A marca registrada é o sinal distintivo — nome, símbolo, logotipo ou combinação desses elementos — que identifica produtos ou serviços de uma empresa no mercado. O registro é feito no INPI e confere ao titular exclusividade de uso em todo o território nacional, dentro das classes de produtos ou serviços especificadas.
+
+A proteção da marca registrada é independente do nome empresarial. Uma empresa pode ter uma denominação social e usar um nome de fantasia como marca — e é o registro da marca no INPI que protege o nome de fantasia, não o registro na Junta.
+
+## Por que um não substitui o outro
+
+São órgãos diferentes, com finalidades diferentes:
+
+A **Junta Comercial** registra a existência jurídica da empresa. Verifica apenas se já existe outra empresa com o mesmo nome empresarial registrada no mesmo estado e na mesma atividade.
+
+O **INPI** registra direitos sobre sinais distintivos usados no mercado. Verifica se existe marca idêntica ou semelhante na mesma classe em todo o Brasil, independentemente de quem registrou a empresa.
+
+Na prática: você pode registrar uma empresa com o nome "Sol Nascente Cosméticos Ltda" na Junta Comercial de São Paulo, mas outra empresa pode ter registrado a marca "SOL NASCENTE" para cosméticos no INPI anos antes. Nesse caso, a titular da marca pode impedir que você use esse nome comercialmente — mesmo que o CNPJ seja legítimo.
+
+## O cenário inverso também existe
+
+Da mesma forma, ter uma marca registrada no INPI não impede que outra empresa use nome igual ou parecido como denominação social na Junta Comercial — o que pode gerar confusão no mercado e necessidade de ação judicial para fazer cessar o uso.
+
+Por isso, a proteção completa de uma identidade empresarial exige ambos: o registro na Junta Comercial para constituição jurídica da empresa, e o registro da marca no INPI para exclusividade de uso do sinal no mercado.
+
+## Como regularizar a situação
+
+Empresas que operam com um nome ou marca sem registro no INPI devem iniciar o processo o quanto antes — especialmente se já investiram em construção de reputação e base de clientes. Quanto mais tempo passa sem registro, maior o risco de que outra empresa deposite pedido conflitante e obtenha prioridade.
+
+O caminho começa com a busca de anterioridade para verificar se o sinal pretendido está disponível. Se estiver, o depósito deve ser feito com urgência. Se houver conflito, a assessoria especializada avalia as alternativas: ajuste do sinal, negociação de coexistência ou busca por um novo nome que possa ser registrado.`
+  },
+  {
+    slug: "como-proteger-logo-marca-ou-direito-autoral",
+    title: "Como proteger uma logo: marca registrada ou direito autoral?",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-02-24",
+    image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "Uma logo pode ser protegida tanto como marca quanto como obra autoral. Entenda o que cada proteção cobre, suas diferenças práticas e por que a estratégia ideal combina os dois instrumentos.",
+    content: `## Dois tipos de proteção, dois objetivos distintos
+
+Quando uma empresa cria ou encomenda um logotipo, surge imediatamente uma dúvida: como proteger esse ativo? A resposta correta é entender que existem dois mecanismos de proteção distintos — a marca registrada e o direito autoral — que protegem aspectos diferentes do mesmo objeto e podem ser usados de forma complementar.
+
+Confundir os dois ou escolher apenas um sem entender as limitações pode deixar lacunas importantes na proteção do ativo mais visível da empresa.
+
+## O que o registro de marca protege
+
+O registro de marca no INPI protege o sinal distintivo como indicador de origem — ou seja, como elemento que identifica os produtos ou serviços da empresa no mercado e os diferencia da concorrência.
+
+Quando uma logo é registrada como marca figurativa ou mista, o titular obtém:
+
+**Exclusividade de uso** no mercado, nas classes de produtos ou serviços registradas, em todo o território nacional;
+
+**Direito de impedir** que terceiros usem sinal idêntico ou semelhante que cause confusão no mercado;
+
+**Base legal sólida** para notificações, ações judiciais e alfandegamento de produtos contrafeitos;
+
+**Ativo valorável** que pode ser licenciado, vendido e incluído no balanço da empresa.
+
+A proteção da marca é temporal (10 anos, renovável) e territorial (válida no Brasil; requer registro separado no exterior).
+
+## O que o direito autoral protege
+
+O direito autoral protege a logo como obra artística — uma expressão criativa original. Diferentemente da marca, o direito autoral nasce automaticamente com a criação, sem necessidade de registro formal.
+
+No entanto, o direito autoral protege a **expressão específica** da obra: o desenho exato, a composição de cores e formas tal como criado. Ele não impede que terceiros criem logos semelhantes de forma independente — apenas proíbe a cópia da obra protegida.
+
+O registro do direito autoral (na Biblioteca Nacional ou no INPI, para softwares) cria prova oficial de autoria, data de criação e titularidade. É especialmente relevante para resolver disputas sobre quem criou a logo.
+
+## As diferenças práticas que importam
+
+**Confusão no mercado:** a marca registrada é o instrumento certo para combater concorrentes que usam logos semelhantes, mesmo que não sejam cópias idênticas. O direito autoral só protege contra cópias fiéis da obra.
+
+**Vigência:** o direito autoral dura 70 anos após a morte do autor. A marca precisa ser renovada a cada 10 anos.
+
+**Registro:** a marca exige registro no INPI para existir como direito. O direito autoral existe independentemente de registro, mas o registro fortalece a prova.
+
+**Titular:** o autor da logo é, em regra, o designer que a criou — não a empresa que pagou pelo serviço. Sem contrato de cessão de direitos, a empresa pode usar a logo mas não é titular dos direitos autorais sobre ela. A marca, por outro lado, pertence a quem registrou no INPI.
+
+## A questão da titularidade: cuidado com designers e agências
+
+Um ponto frequentemente ignorado: quando uma empresa contrata um designer ou agência para criar um logotipo, o direito autoral sobre a obra pertence ao criador — salvo disposição contratual expressa em sentido contrário.
+
+Isso significa que, sem um contrato de cessão de direitos autorais, a empresa pode usar a logo mas não pode impedir que o designer a reproduza, venda ou licencie para terceiros. Em caso de disputa, quem tem o contrato de cessão tem a prova de titularidade.
+
+## A estratégia ideal: combinar os dois
+
+A proteção mais robusta combina os dois instrumentos:
+
+1. **Registro da logo como marca** no INPI (figura ou mista), garantindo exclusividade de uso no mercado
+2. **Contrato de cessão de direitos autorais** com o designer, transferindo a titularidade da obra para a empresa
+3. **Registro autoral opcional**, criando prova oficial de data e autoria para uso em disputas
+
+Essa combinação cobre tanto o uso não autorizado por concorrentes (marca) quanto disputas sobre criação e titularidade (direito autoral). Para empresas que dependem de uma identidade visual forte, o investimento nessa proteção dupla é mínimo comparado ao risco de perder o controle sobre o próprio logotipo.`
+  },
+  {
+    slug: "protocolo-de-madri-registro-marca-exterior",
+    title: "Protocolo de Madri: como registrar sua marca no exterior",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-02-10",
+    image: "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "O Protocolo de Madri permite registrar uma marca em vários países com um único pedido internacional. Entenda como funciona, quais países participam e quando vale a pena usar esse sistema.",
+    content: `## O desafio da proteção internacional de marcas
+
+Uma marca registrada no INPI tem validade apenas no território brasileiro. Empresas que exportam, atuam em mercados internacionais ou pretendem expandir para outros países precisam de proteção em cada território onde a marca será usada.
+
+Registrar separadamente em cada país é possível, mas envolve custos e burocracia multiplicados: taxas em cada jurisdição, tradução de documentos, contratação de representantes locais e acompanhamento de processos em diferentes idiomas e sistemas jurídicos.
+
+O Protocolo de Madri foi criado exatamente para simplificar esse processo.
+
+## Como funciona o sistema de Madri
+
+O Protocolo de Madri é um tratado internacional administrado pela OMPI (Organização Mundial da Propriedade Intelectual) que permite que o titular de uma marca deposite um único pedido internacional — em um único idioma, pagando em uma única moeda — e designe os países membros em que deseja proteção.
+
+O processo funciona assim: o requerente deposita o pedido internacional na OMPI por meio do INPI (que é o escritório de origem), com base em um registro ou pedido já existente no Brasil. A OMPI analisa os requisitos formais e encaminha o pedido aos escritórios dos países designados. Cada país tem então prazo para analisar o pedido conforme suas normas locais e eventualmente recusar a proteção.
+
+Se o país não emitir recusa dentro do prazo, a marca é considerada registrada naquele território.
+
+## Países membros do Protocolo de Madri
+
+O sistema de Madri conta com mais de 130 países membros, cobrindo os principais mercados mundiais, incluindo União Europeia (como um bloco único), Estados Unidos, China, Japão, Reino Unido, Canadá, Austrália, Índia, México, Argentina e a maioria dos países da América Latina, Europa, Ásia e África.
+
+O Brasil aderiu ao Protocolo de Madri em 2019, o que permite que empresas brasileiras usem o sistema para registrar marcas no exterior, e que titulares estrangeiros designem o Brasil em seus pedidos internacionais.
+
+## Vantagens do sistema de Madri
+
+**Centralização:** um único pedido, um único idioma (inglês, francês ou espanhol), um único pagamento centralizado à OMPI, cobrindo múltiplos países.
+
+**Custo reduzido:** os custos de proteção internacional são significativamente menores do que registrar individualmente em cada país, especialmente quando se buscam múltiplas jurisdições.
+
+**Gestão simplificada:** renovações, mudanças de titular e alterações de endereço podem ser feitas centralizadamente, com efeito em todos os países designados.
+
+**Flexibilidade:** é possível adicionar novos países posteriormente sem iniciar um processo completamente novo.
+
+## Limitações e pontos de atenção
+
+O pedido internacional é dependente do registro ou pedido de base no Brasil durante os primeiros cinco anos. Se o pedido de base for cancelado, indeferido ou abandonado nesse período, o registro internacional é afetado.
+
+Cada país ainda analisa o pedido conforme suas normas locais e pode recusar a proteção. Uma recusa em determinado país não afeta os demais.
+
+Os custos variam conforme os países designados e o número de classes. A análise de quais mercados realmente importam para o negócio é parte essencial do planejamento.
+
+## Quando o sistema de Madri é a melhor opção
+
+O Protocolo de Madri é especialmente vantajoso para empresas que precisam de proteção em três ou mais países, que já têm ou estão em processo de obter registro no Brasil, e que preferem centralizar a gestão de propriedade intelectual.
+
+Para proteção em um ou dois países específicos com características regulatórias muito particulares, o registro direto pode ser mais eficiente. A decisão deve ser tomada com base na estratégia de expansão da empresa e no custo-benefício de cada abordagem, com orientação de especialista em propriedade intelectual internacional.`
+  },
+  {
+    slug: "caducidade-de-marca-o-que-e-como-evitar",
+    title: "Caducidade de marca: o que é, como evitar e como pedir",
+    category: "Marcas",
+    author: "Equipe CMarcas",
+    date: "2026-01-15",
+    image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "Uma marca registrada pode ser cancelada por falta de uso. Entenda o que é a caducidade, quais são os prazos, como comprovar uso e como usar esse mecanismo para liberar marcas bloqueadas.",
+    content: `## O que é a caducidade de marca
+
+A caducidade é um mecanismo legal que permite o cancelamento de um registro de marca quando o titular não comprova uso efetivo do sinal no mercado dentro do prazo estabelecido pela Lei de Propriedade Industrial.
+
+A lógica é simples: o registro de marca confere exclusividade de uso — um privilégio que bloqueia terceiros de usar aquele sinal. Se o titular não usa a marca, essa exclusividade se torna um obstáculo injustificado para outros que poderiam colocá-la em uso produtivo no mercado. A caducidade funciona como um mecanismo de limpeza do sistema.
+
+## Os prazos que você precisa conhecer
+
+Segundo o artigo 143 da Lei de Propriedade Industrial, o registro de marca caduca se, nos cinco anos contados da data da concessão, o uso não tiver sido iniciado no Brasil, ou se o uso tiver sido interrompido por mais de cinco anos consecutivos.
+
+Isso significa que o titular tem até cinco anos após a concessão para colocar a marca em uso efetivo. Após esse prazo, qualquer pessoa com legítimo interesse pode pedir a caducidade ao INPI.
+
+Atenção importante: o prazo se conta da **concessão** do registro, não do depósito do pedido. Como o processo de registro pode durar vários anos, o total entre o depósito e o início do risco de caducidade pode ser considerável.
+
+## O que é considerado uso efetivo
+
+O uso deve ser real, efetivo e de boa-fé — não apenas simbólico ou realizado às vésperas de uma ação de caducidade. O INPI considera uso efetivo a utilização da marca em produtos comercializados, serviços prestados, materiais publicitários e comunicações comerciais.
+
+A comprovação de uso é feita por meio de documentos como notas fiscais com o nome da marca, embalagens, catálogos, peças publicitárias, contratos de licença e qualquer material que demonstre que a marca está sendo usada de forma regular no mercado.
+
+O uso por licenciado autorizado conta como uso do titular, desde que o contrato esteja devidamente averbado no INPI.
+
+## Como se defender de uma ação de caducidade
+
+Se sua marca for alvo de um pedido de caducidade, você tem prazo para apresentar defesa comprovando o uso. A defesa deve ser documentada e convincente — o ônus de provar o uso é do titular.
+
+A estratégia de defesa passa por reunir a melhor documentação disponível: extratos de notas fiscais, amostras de embalagens, impresso de anúncios, prints de e-commerce, declarações de distribuidores e qualquer outro elemento que demonstre uso contínuo e público da marca.
+
+Se houver lacuna real de uso, é possível alegar justo motivo para a não utilização — como fatores externos que impediram o uso (pandemia, regulação, escassez de insumos) — mas esse argumento tem escopo limitado e precisa ser bem fundamentado.
+
+## Como usar a caducidade a seu favor
+
+A caducidade também é uma ferramenta para quem quer registrar uma marca bloqueada por um registro antigo cujo titular não usa mais. Se uma empresa encontra na busca de anterioridade uma marca que conflita com o sinal que deseja registrar, mas identifica que o titular não usa aquela marca há mais de cinco anos, pode pedir a caducidade ao INPI.
+
+O pedido de caducidade é formulado com prova do legítimo interesse do requerente (geralmente um pedido de registro em conflito) e documentação que demonstre a ausência de uso pelo titular. O titular é notificado e tem prazo para apresentar comprovação de uso.
+
+Se a caducidade for declarada, o registro é cancelado e o caminho para o novo registro fica desbloqueado. Essa estratégia é frequentemente usada por empresas que querem registrar um nome que estava "parado" no portfólio de um concorrente ou de uma empresa que já não existe.`
+  },
+  {
+    slug: "como-registrar-cosmetico-anvisa",
+    title: "Como registrar produto cosmético na ANVISA",
+    category: "ANVISA",
+    author: "Equipe CMarcas",
+    date: "2025-12-20",
+    image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "O caminho para regularizar um cosmético na ANVISA depende do grau de risco do produto. Entenda a diferença entre notificação e registro, o que cada um exige e como estruturar a documentação.",
+    content: `## Cosméticos regulados: o que a ANVISA exige
+
+Todos os produtos cosméticos comercializados no Brasil precisam de alguma forma de regularização perante a ANVISA antes de serem colocados no mercado. A modalidade — notificação ou registro — depende do grau de risco sanitário do produto, definido pela RDC 752/2022 e pela legislação complementar.
+
+Comercializar cosméticos sem regularização é infração sanitária sujeita a multa, apreensão do produto, interdição do estabelecimento e responsabilização criminal dos responsáveis. Além disso, grandes redes varejistas e plataformas de e-commerce exigem comprovação de regularidade antes de aceitar produtos em seus canais.
+
+## Grau 1 e Grau 2: a divisão que define o caminho
+
+A ANVISA divide os cosméticos em dois graus de risco:
+
+**Grau 1:** produtos de uso simples, com formulação bem estabelecida, baixo potencial de risco e instruções de uso que não requerem orientações especiais. Exemplos: sabonetes, xampus, condicionadores, hidratantes, desodorantes comuns, maquiagens básicas e perfumes com concentração usual de fragrância.
+
+Para esses produtos, o caminho é a **notificação**: a empresa notifica a ANVISA por meio do sistema eletrônico e pode comercializar o produto imediatamente após a notificação, sem aguardar análise prévia. A responsabilidade pela conformidade é integralmente do fabricante ou importador.
+
+**Grau 2:** produtos com características especiais que exigem comprovação de segurança e eficácia, que contêm ingredientes com restrições de uso ou concentração, ou cujas instruções de uso requerem cuidados especiais. Exemplos: tinturas capilares, alisamentos e permanentes, descolorantes, protetores solares, produtos de depilação, esfoliantes químicos com AHA/BHA em concentrações específicas e produtos para área dos olhos com formulações especiais.
+
+Para esses produtos, é necessário o **registro**, que envolve análise técnica prévia pela ANVISA e prazo de aprovação antes da comercialização.
+
+## Documentação necessária para a notificação (Grau 1)
+
+Para notificar um cosmético de grau 1, o responsável legal pela notificação precisa ter:
+
+- CNPJ ativo com licença sanitária vigente
+- Responsável técnico habilitado (farmacêutico, químico ou profissional equivalente)
+- Fórmula qualitativa e quantitativa do produto
+- Especificações técnicas das matérias-primas
+- Rótulo completo conforme RDC 752/2022
+- Laudo de controle de qualidade
+- Ficha de informações de segurança do produto
+
+O sistema de notificação da ANVISA é eletrônico, e o processo é simplificado em relação ao registro. Porém, a responsabilidade pela conformidade de todos os documentos e da formulação é do notificante.
+
+## Documentação necessária para o registro (Grau 2)
+
+O registro de cosméticos de grau 2 exige documentação mais robusta, incluindo:
+
+- Todos os documentos da notificação
+- Estudos de segurança e eficácia do produto
+- Laudo de estabilidade em condições aceleradas e de longa duração
+- Laudo de segurança (avaliação toxicológica)
+- Laudo dermatológico (para produtos com alegações específicas)
+- Método analítico validado para controle do ingrediente ativo principal
+- Ficha técnica detalhada do produto
+
+O prazo de análise pela ANVISA para registros de grau 2 varia, e durante esse período o produto não pode ser comercializado.
+
+## Rotulagem: o erro mais comum
+
+A maioria das exigências emitidas pela ANVISA em processos de regularização de cosméticos decorre de problemas na rotulagem. A RDC 752/2022 estabelece requisitos detalhados sobre informações obrigatórias, tamanho mínimo de fonte, idioma, destaque de ingredientes alergênicos e frases de advertência.
+
+Revisar o rótulo com um especialista antes de submeter o processo economiza tempo e evita exigências que atrasam a aprovação. Erros comuns incluem ausência do número CNPJ do fabricante, falta da lista completa de ingredientes em nomenclatura INCI, informações de validade em formato incorreto e ausência de frases de advertência obrigatórias.
+
+## Importação de cosméticos: regras específicas
+
+Empresas que importam cosméticos para comercialização no Brasil precisam cumprir requisitos adicionais: habilitação como importadora perante a ANVISA, regularização do produto conforme a modalidade aplicável e adequação do rótulo ao português com todas as informações exigidas pela legislação brasileira, mesmo que o produto já seja regularizado no país de origem.`
+  },
+  {
+    slug: "como-registrar-patente-no-brasil",
+    title: "Como registrar uma patente no Brasil: guia completo",
+    category: "Patentes",
+    author: "Equipe CMarcas",
+    date: "2025-11-28",
+    image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "O processo de registro de patente no INPI envolve etapas técnicas e jurídicas que determinam o alcance da proteção. Veja o que é necessário, quanto custa e quanto tempo demora.",
+    content: `## Quem pode pedir uma patente no Brasil
+
+Qualquer pessoa física ou jurídica pode solicitar o registro de uma patente no INPI, desde que seja o inventor ou tenha adquirido os direitos sobre a invenção. Quando a invenção é desenvolvida por empregados no exercício do contrato de trabalho, a titularidade pertence ao empregador — salvo acordo em contrário.
+
+Em pesquisas realizadas em parceria entre empresas e instituições de ensino ou pesquisa, a titularidade é definida por contrato. Para inventores independentes, a titularidade é individual, podendo ser cedida ou licenciada posteriormente.
+
+## O que pode e o que não pode ser patenteado
+
+A Lei de Propriedade Industrial define os requisitos para patenteabilidade e também lista o que não pode ser objeto de patente.
+
+**O que pode ser patenteado:** invenções que sejam novas (não existam no estado da técnica), apresentem atividade inventiva (não sejam óbvias para um técnico na área) e tenham aplicação industrial (possam ser fabricadas ou utilizadas em qualquer tipo de indústria).
+
+**O que não pode ser patenteado:** descobertas científicas, teorias matemáticas, métodos de tratamento cirúrgico ou terapêutico do corpo humano, plantas e animais em sua forma natural, obras literárias e artísticas (protegidas por direito autoral), e software em si — embora sistemas que usam software e produzem efeitos técnicos possam ser protegíveis.
+
+## As etapas do processo
+
+**1. Busca do estado da técnica**
+Antes do depósito, é fundamental pesquisar se a invenção é realmente nova. A busca é realizada nas principais bases de patentes mundiais (INPI, USPTO, EPO, WIPO) para identificar documentos anteriores que possam antecipar ou tornar óbvia a invenção.
+
+**2. Elaboração dos documentos**
+O pedido de patente é composto por: relatório descritivo (descrição detalhada da invenção), reivindicações (definição do que se pretende proteger — o elemento mais estratégico do pedido), resumo e desenhos quando necessários.
+
+A redação das reivindicações é crítica: reivindicações muito amplas são rejeitadas por falta de suporte; reivindicações muito restritas deixam espaço para concorrentes contornarem a patente.
+
+**3. Depósito no INPI**
+O pedido é depositado eletronicamente no sistema e-Patentes do INPI, com pagamento da retribuição de depósito. O INPI emite o número de protocolo, que estabelece a data de prioridade.
+
+**4. Publicação do pedido**
+Após 18 meses do depósito (ou da data de prioridade reivindicada), o pedido é publicado na Revista da Propriedade Industrial. A partir desse momento, qualquer pessoa pode acessar o conteúdo do pedido.
+
+**5. Pedido de exame**
+O exame de mérito não é automático — é necessário requerê-lo expressamente dentro do prazo legal (36 meses a partir do depósito). Sem o pedido de exame, o processo é arquivado.
+
+**6. Exame técnico**
+Um examinador do INPI analisa se os requisitos de patenteabilidade são atendidos. Podem ser emitidas exigências pedindo esclarecimentos, restrições nas reivindicações ou documentação complementar.
+
+**7. Concessão**
+Após aprovação no exame e pagamento da retribuição de concessão, a patente é concedida e publicada. O prazo de proteção começa a contar da data do depósito.
+
+## Prazos de proteção e custos
+
+**Patente de Invenção:** 20 anos a partir do depósito
+**Modelo de Utilidade:** 15 anos a partir do depósito
+**Desenho Industrial:** 10 anos, renovável por 3 períodos de 5 anos (máximo 25 anos)
+
+O prazo de exame no INPI é historicamente longo — pode variar de 3 a 10 anos dependendo da tecnologia e da fila. Para algumas áreas tecnológicas, há programas de aceleração de exame disponíveis.
+
+Os custos incluem retribuições ao INPI (depósito, exame, concessão e anuidades durante a vigência) e honorários de assessoria especializada para a redação dos documentos e acompanhamento do processo.
+
+## Por que a qualidade do pedido define a proteção
+
+Uma patente concedida com reivindicações mal elaboradas pode ser de pouco valor prático — concorrentes conseguem desenvolver produtos equivalentes sem infringir as reivindicações. A qualidade da redação técnica e jurídica do pedido determina diretamente o valor estratégico da proteção obtida. Esse é o principal argumento para contar com especialistas em pedidos de patente.`
+  },
+  {
+    slug: "patente-de-software-no-brasil",
+    title: "Patente de software no Brasil: o que pode ser protegido",
+    category: "Patentes",
+    author: "Equipe CMarcas",
+    date: "2025-10-10",
+    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+    excerpt: "A lei brasileira não permite patentear software em si, mas soluções técnicas que usam software podem ser protegíveis. Entenda o que é possível e como montar a estratégia de proteção certa.",
+    content: `## O que a lei diz sobre software e patentes
+
+A Lei de Propriedade Industrial brasileira (Lei 9.279/1996) é explícita ao excluir "programas de computador em si" do rol do que pode ser patenteado. Essa vedação reflete um entendimento compartilhado por vários sistemas jurídicos: o código em si é uma expressão criativa protegida pelo direito autoral, não uma invenção técnica protegível por patente.
+
+No entanto, a expressão "em si" é determinante. O INPI e os tribunais brasileiros reconhecem que soluções técnicas que usam software como componente — quando o conjunto produz um efeito técnico concreto e não óbvio — podem ser patenteáveis.
+
+## Quando uma solução que usa software pode ser patenteada
+
+A fronteira entre o que é e o que não é patenteável em software é definida pelo efeito técnico que a solução produz. Para ser patenteável, a invenção precisa:
+
+**Produzir um efeito técnico:** não basta executar uma função lógica ou matemática. O sistema ou método precisa gerar um resultado técnico no mundo físico — maior eficiência de processamento, melhoria em um processo industrial, solução de um problema técnico específico em hardware.
+
+**Ser nova:** o efeito técnico e a forma de alcançá-lo não podem já existir no estado da técnica.
+
+**Apresentar atividade inventiva:** a solução não pode ser óbvia para um especialista na área. Simplesmente implementar em software uma solução já conhecida no mundo analógico geralmente não tem atividade inventiva.
+
+Exemplos de soluções que têm sido consideradas patenteáveis: sistemas embarcados com algoritmos específicos para controle de hardware, métodos de compressão de dados com efeito técnico específico, sistemas de comunicação com protocolos que melhoram performance técnica mensurável, e soluções de inteligência artificial aplicadas a diagnóstico médico com resultado técnico específico.
+
+## O que definitivamente não é patenteável
+
+Não são patenteáveis: algoritmos matemáticos sem aplicação técnica específica, métodos de negócio implementados em software (como sistemas de precificação ou fidelidade), interfaces gráficas e experiências de usuário, e funcionalidades de software que simplesmente automatizam tarefas manuais sem efeito técnico adicional.
+
+Também não são patenteáveis por si só: bancos de dados, planilhas, aplicativos mobile que realizam funções lógicas sem efeito técnico, e sistemas de inteligência artificial que apenas processam dados sem gerar resultado técnico concreto.
+
+## Como o INPI avalia pedidos de software
+
+O INPI publicou diretrizes de exame para pedidos envolvendo programas de computador. O examinador analisa se o pedido está redigido de forma a reivindicar o efeito técnico — não o software em si.
+
+A estratégia de redação das reivindicações é fundamental: pedidos que descrevem o software como meio para alcançar um efeito técnico têm mais chance de aprovação do que pedidos que descrevem simplesmente o que o software faz funcionalmente.
+
+## A alternativa: registro de software como obra autoral
+
+Para softwares que não têm a dimensão técnica necessária para uma patente, o registro no INPI como programa de computador é o caminho adequado. Esse registro:
+
+Cria prova oficial de autoria, titularidade e data de criação; É realizado de forma sigilosa, sem publicação do código; Tem prazo de proteção de 50 anos a partir de 1º de janeiro do ano subsequente à publicação; Pode ser incluído no balanço patrimonial como ativo intangível.
+
+## A estratégia de proteção para empresas de tecnologia
+
+Para startups e empresas de tecnologia, a estratégia ideal de proteção intelectual geralmente combina:
+
+**Registro de software no INPI** para criar prova de titularidade e ativo contábil, com sigilo sobre o código;
+
+**Patente** quando o sistema produz efeito técnico patenteável — especialmente relevante para hardware com software embarcado, sistemas IoT, soluções de IA aplicada e tecnologia industrial;
+
+**Segredo de negócio** para algoritmos e know-how que não precisam ser divulgados e onde a vantagem competitiva está na execução, não na exclusividade formal;
+
+**Contratos de confidencialidade** com colaboradores, prestadores e parceiros que têm acesso ao código e às metodologias proprietárias.
+
+Cada empresa tem um perfil diferente de ativos e riscos. A assessoria especializada ajuda a priorizar os instrumentos mais adequados para o momento e o modelo de negócio.`
+  },
+  {
     slug: "registro-de-marca-primeiros-passos",
     title: "Registro de marca: primeiros passos para proteger seu negócio",
     category: "Marcas",
