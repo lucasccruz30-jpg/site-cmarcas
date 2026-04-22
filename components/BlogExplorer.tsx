@@ -57,27 +57,24 @@ export function BlogExplorer() {
 
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {filtered.map((post) => (
-          <article
-            className="overflow-hidden rounded-lg bg-white shadow-soft transition hover:-translate-y-1 hover:shadow-lift"
+          <Link
+            className="group overflow-hidden rounded-lg bg-white shadow-soft transition hover:-translate-y-1 hover:shadow-lift"
+            href={`/blog/${post.slug}`}
             key={post.slug}
           >
-            <Link href={`/blog/${post.slug}`}>
-              <Image
-                alt={post.title}
-                className="aspect-video w-full object-cover"
-                height={380}
-                src={post.image}
-                width={680}
-              />
-            </Link>
+            <Image
+              alt={post.title}
+              className="aspect-video w-full object-cover"
+              height={380}
+              src={post.image}
+              width={680}
+            />
             <div className="p-5">
               <span className="rounded-full bg-brand-orange/12 px-3 py-1 text-xs font-bold text-brand-orange">
                 {post.category}
               </span>
-              <h2 className="mt-4 text-xl font-bold leading-snug text-brand-ink">
-                <Link className="hover:text-brand-orange" href={`/blog/${post.slug}`}>
-                  {post.title}
-                </Link>
+              <h2 className="mt-4 text-xl font-bold leading-snug text-brand-ink group-hover:text-brand-orange transition">
+                {post.title}
               </h2>
               <p className="mt-3 line-clamp-2 text-sm text-brand-muted">{post.excerpt}</p>
               <div className="mt-5 flex items-center justify-between gap-3 text-xs text-brand-muted">
@@ -85,7 +82,7 @@ export function BlogExplorer() {
                 <span>{readingTime(post.content)} min de leitura</span>
               </div>
             </div>
-          </article>
+          </Link>
         ))}
       </div>
     </div>
