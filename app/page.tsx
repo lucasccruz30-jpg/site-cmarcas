@@ -128,7 +128,7 @@ export default function Home() {
       </section>
 
       <section className="border-b border-black/6 bg-white">
-        <div className="section-shell grid grid-cols-2 divide-x divide-black/6 lg:grid-cols-4">
+        <div className="section-shell grid grid-cols-2 divide-x divide-y divide-black/6 lg:grid-cols-4 lg:divide-y-0">
           {[
             { value: "10+", label: "Anos de experiência" },
             { value: "500+", label: "Clientes atendidos" },

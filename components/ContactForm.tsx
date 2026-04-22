@@ -66,7 +66,7 @@ export function ContactForm() {
       </div>
       <div className="grid gap-4 md:grid-cols-2">
         <Field label="Email" error={errors.email?.message}>
-          <input className={fieldClass} placeholder="voce@email.com" type="email" {...register("email")} />
+          <input className={fieldClass} placeholder="seu@email.com" type="email" {...register("email")} />
         </Field>
         <Field label="Telefone" error={errors.phone?.message}>
           <input className={fieldClass} placeholder="(11) 99999-9999" {...register("phone")} />

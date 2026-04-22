@@ -88,7 +88,7 @@ export function ServicePage({ service }: { service: ServiceContent }) {
           eyebrow="Como funciona"
           title="Um processo conduzido com prazos, documentação e acompanhamento"
         />
-        <div className="grid gap-6 md:grid-cols-4">
+        <div className="grid grid-cols-2 gap-6 md:grid-cols-4">
           {service.steps.map((step, index) => {
             const Icon = icons[index % icons.length];
             return (
@@ -116,7 +116,7 @@ export function ServicePage({ service }: { service: ServiceContent }) {
             description="Benefícios que conectam proteção legal, valor de mercado e segurança para crescer."
             title="Benefícios"
           />
-          <div className="grid gap-4 md:grid-cols-5">
+          <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
             {service.benefits.map((benefit) => (
               <div className="rounded-lg border border-white/10 bg-white/8 p-5" key={benefit}>
                 <BadgeCheck className="mb-4 text-brand-orangeSoft" size={28} />
@@ -149,7 +149,7 @@ export function ServicePage({ service }: { service: ServiceContent }) {
         <section className="bg-brand-paper py-16">
           <div className="section-shell">
             <SectionHeading title="Registro Nacional vs Internacional" />
-            <div className="overflow-hidden rounded-lg bg-white shadow-soft">
+            <div className="overflow-x-auto rounded-lg bg-white shadow-soft">
               <table className="w-full min-w-[680px] text-left text-sm">
                 <thead className="bg-brand-ink text-white">
                   <tr>
