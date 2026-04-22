@@ -17,7 +17,6 @@ import { ButtonLink } from "@/components/Button";
 import { LogoTicker } from "@/components/LogoTicker";
 import { MotionReveal } from "@/components/Motion";
 import { SectionHeading } from "@/components/SectionHeading";
-import { TestimonialCarousel } from "@/components/TestimonialCarousel";
 import { blogPosts } from "@/lib/content";
 import { siteConfig } from "@/lib/constants";
 import { formatDate, readingTime } from "@/lib/utils";
@@ -211,13 +210,6 @@ export default function Home() {
             title="Empresas que Confiam em Nós"
           />
           <LogoTicker />
-        </div>
-      </section>
-
-      <section className="bg-brand-paper py-16">
-        <div className="section-shell">
-          <SectionHeading eyebrow="Depoimentos" title="Confiança construída no acompanhamento" />
-          <TestimonialCarousel />
         </div>
       </section>
 
