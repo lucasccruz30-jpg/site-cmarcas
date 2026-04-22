@@ -13,7 +13,7 @@ export function Navbar() {
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-black/5 bg-white/95 shadow-[0_3px_24px_rgba(0,0,0,0.05)] backdrop-blur">
+    <header className="sticky top-0 z-50 border-b border-black/5 bg-white shadow-[0_3px_24px_rgba(0,0,0,0.05)]">
       <div className="bg-brand-orange">
         <div className="mx-auto flex w-full max-w-[1520px] flex-wrap items-center justify-center gap-x-6 gap-y-2 px-6 py-2 sm:px-10 md:justify-start">
           <a
