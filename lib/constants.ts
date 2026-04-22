@@ -6,7 +6,8 @@ export const siteConfig = {
   url: "https://www.cmarcas.com.br",
   phone: "(11) 3313-5367",
   whatsapp: "(11) 94361-8391",
-  whatsappUrl: "https://wa.me/5511943618391",
+  whatsappUrl:
+    "https://wa.me/5511943618391?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20CMarcas%20e%20gostaria%20de%20solicitar%20uma%20consulta%20gratuita.",
   email: "mktcmarcas@cmarcas.com.br",
   address:
     "Rua Humberto I, 236 - 8º andar - cj 83/84 - Vila Mariana - São Paulo - SP - CEP: 04018-030",
